@@ -26,7 +26,11 @@ node src/index.js
 
 arduino
 http://localhost:3000
+
 Usage
+
 Enter a keyword in the input field.
+
 Click the "Scrape" button.
+
 View the scraped product results.
