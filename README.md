@@ -27,7 +27,7 @@ node src/index.js
 arduino
 http://localhost:3000
 
-Usage
+Usage:
 
 Enter a keyword in the input field.
 
