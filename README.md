@@ -11,11 +11,11 @@ This project scrapes product details from Amazon based on a user-provided keywor
 
 1. **Clone the repository:**
 
-2. Install the dependencies:
+2. Install the dependencies: 
    bash
    npm install
 
-Running the Project
+Running the Project:
 
 1.Start the server:
 
