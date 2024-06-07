@@ -16,6 +16,7 @@ This project scrapes product details from Amazon based on a user-provided keywor
    npm install
 
 Running the Project
+
 1.Start the server:
 
 bash
