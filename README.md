@@ -9,7 +9,7 @@ This project scrapes product details from Amazon based on a user-provided keywor
 
 ## Setup Instructions
 
-1. **Clone the repository:**
+1. **Clone the repository.**
 
 2. Install the dependencies: 
    bash
